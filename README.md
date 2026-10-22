@@ -33,7 +33,7 @@ Images, tables, nested lists, numbered lists, blockquotes.
 
 Work in progress.
 
-- [ ] Project skeleton and Makefile
+- [X] Project skeleton and Makefile
 - [ ] Headings and paragraphs
 - [ ] Inline formatting
 - [ ] Lists and code blocks
